@@ -1,0 +1,4 @@
+basic - from https://cliutils.gitlab.io/modern-cmake/chapters/basics/functions.html
+separate - move function simple into another file
+ff90 - move ff90 files to f90 for compilation then revert to original extensions
+
